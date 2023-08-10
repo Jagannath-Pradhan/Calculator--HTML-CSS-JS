@@ -1,0 +1,19 @@
+.text__center {
+    text-align: center;
+}
+
+.mx__auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex__col {
+    flex-direction: column;
+}
+
+.items__center {
+    align-items: center;
+}
